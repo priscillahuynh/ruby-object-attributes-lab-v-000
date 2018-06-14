@@ -5,7 +5,7 @@ class Dog
   end
 
   def name
-    @name = name
+    return name
   end
 
   def breed
